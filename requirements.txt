@@ -1,0 +1,7 @@
+telebot
+pyTelegramBotAPI
+chardet
+google-generativeai
+langdetect
+pandas
+nltk
